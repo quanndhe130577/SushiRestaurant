@@ -1,0 +1,17 @@
+/*copyright by fu hub*/
+/*link group https://www.facebook.com/groups/498752080529382/*/
+.footer{
+    font-size: 13px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.footer a{
+    font-size: 13px;
+    color: black;
+}
+
+.visiter_count{
+    float: right;
+    padding-right: 20px;
+}
